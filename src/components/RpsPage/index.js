@@ -128,7 +128,7 @@ class RpsPage extends Component {
                   className="trigger-button-close"
                   onClick={() => close()}
                 >
-                  <RiCloseLine />
+                  <RiCloseLine size="30" color="#616e7c" aria-label="close"/>
                 </button>
                 <PopUpImage
                   src="https://assets.ccbp.in/frontend/react-js/rock-paper-scissor/rules-image.png"
